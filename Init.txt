@@ -1,0 +1,7 @@
+--> Basic concepts notes and video
+--> RL concepts notes and video
+--> DRL concepts notes and video
+--> Pre-project pipeline to collect data and setup agent and environment
+--> Project modelling 
+--> Project training and testing
+--> Publish?
